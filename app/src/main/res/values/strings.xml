@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kuiz</string>
+    <string name="instructions">Press \'START\' to start the quiz. You will be presented with 20 general knowledge based MCQ\'s. You will have 10 minutes to choose one option for all of them. Each correct option will give you 5 points, wrong option will deduct 1 point and zero points will be given if no option was chosen.</string>
+</resources>
